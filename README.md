@@ -1,5 +1,5 @@
 # Todoapp
-
+Todo App which is built on AngularJs. It uses localStorage so that once you add some item to the list it remains until you press on delete button.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
 ## Development server
